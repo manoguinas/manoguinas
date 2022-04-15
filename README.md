@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Aguinaldo Martins! Seja bem-vindo ao meu perfil do GitHub. 👋
 
-- 👨🏻‍💻 Cursando TSI
+👨🏻‍💻 Cursando TSI 
 
 <div align="center">
   <a href="https://github.com/manoguinas">
