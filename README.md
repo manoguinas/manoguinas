@@ -16,11 +16,11 @@
   ###
   
 <div>
-  <img align="left" alt="GIF" src="https://github.com/manoguinas/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
   <a href="https://instagram.com/manoguinas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/manoguinas" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/egNBS6GkUs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://discord.gg/egNBS6GkUs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img align="center" alt="GIF" src="https://github.com/manoguinas/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/>
  </a>
 </div>
   
