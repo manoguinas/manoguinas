@@ -1,4 +1,4 @@
-### Oi! Eu sou o Aguinaldo Martins! Seja bem-vindo ao meu perfil do GitHub. 👋
+### Oi! Meu nome é Aguinaldo! Seja bem-vindo ao meu perfil do GitHub. 👋
 
 👨🏻‍💻 Cursando TSI 
 
